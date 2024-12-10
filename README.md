@@ -2,7 +2,7 @@
 
 Vibrate your phone with different patterns using a simple web app built with HTML, CSS, and JavaScript!
 
-![Vibrator Phone Screenshot](https://i.ibb.co/xqfmBWZ/Screenshot-2.png)
+![Vibrator Phone Screenshot](https://i.ibb.co/TvKVBPJ/Screenshot-2.png)
 
 ## 🚀 Features
 
