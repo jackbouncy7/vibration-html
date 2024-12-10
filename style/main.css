@@ -1,0 +1,43 @@
+.vibration {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 220px;
+}
+
+.vibration__button {
+  /* Margin, paddings */
+  padding: 9px 15px;
+
+  font-size: 20px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+.vibration__button:hover {
+  background-color: #cccccc;
+}
+
+.vibration__button:not(:last-child) {
+  margin-right: 20px;
+}
+
+@media only screen and (max-width: 320px) {
+  .vibration {
+    display: block;
+    margin-top: 10px;
+  }
+
+  .vibration__button {
+    width: 100%;
+    max-width: 300px;
+
+    margin-bottom: 10px;
+  }
+
+  .vibration__button:not(:last-child) {
+    margin-right: 0px;
+  }
+}
