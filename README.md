@@ -21,7 +21,7 @@ Vibrate your phone with different patterns using a simple web app built with HTM
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/vibrator-phone.git
+   git clone https://github.com/jackbouncy7/vibration-html.git
 
    ```
 
